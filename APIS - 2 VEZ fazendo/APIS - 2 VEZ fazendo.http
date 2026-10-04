@@ -1,0 +1,6 @@
+@APIS___2_VEZ_fazendo_HostAddress = http://localhost:5071
+
+GET {{APIS___2_VEZ_fazendo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
